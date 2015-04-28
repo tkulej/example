@@ -1,0 +1,14 @@
+{
+    "name": "hybris Service",
+    "references":[
+        {
+            "namespace": "api",
+            "description": "API definition of example",
+            "path": "/",
+            "type": "raml",
+            "fileName": "example.raml",
+            "packageName": "sap.com.api.generated",
+            "async": false
+        }
+    ]
+}
